@@ -19,9 +19,6 @@ void sumAndJump(int arr[], int len) // Replace this line with your function.
         cntJump++;
     }
 
-
-
-
     printf("%d\n", cntJump);
 }
 
